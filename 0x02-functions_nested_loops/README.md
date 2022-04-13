@@ -1,1 +1,1 @@
-C - Functions, nested loops
+prints alphabet in lowercase
