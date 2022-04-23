@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * _isupper  - checks upper case
  * @c: prints int
@@ -8,7 +8,7 @@ int _isupper(int c)
 {
 if (c >= 'A' && c <= 'Z')
 {
-return (!);
+return (1);
 }
 
 else
